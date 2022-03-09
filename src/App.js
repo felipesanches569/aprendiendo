@@ -1,6 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
 import React  from 'react';
+import logo from './assets/images/logo.svg';
+import './assets/css/App.css';
+
+// importar componentes
+import MiComponente from './components/MiCompornete'
 function holamundo(nombre, edad)
 { // inicio para usar el div
   var presentecion = 
@@ -37,7 +40,13 @@ function App() {
         >
           Learn React
         </a>
+        <div>
+        <section className="componentes">
+          <MiComponente />
+        </section>
+        </div>
       </header>
+      
     </div>
   );
 }
