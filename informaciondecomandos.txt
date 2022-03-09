@@ -1,0 +1,48 @@
+datos basicos de github
+nombre del curso: Curso React JS en Español 📘 Tutorial de React.js desde cero ⚛️ Instalación, Componentes, JSX 
+link de proyecto de 53 minutos https://www.youtube.com/watch?v=vAvCcjSAGDY&t=2469s
+crea un nuevo repositorio en la línea de comando
+echo "#video53minutos" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/felipesanches569/video53minutos.git
+git push - u origen principal
+
+inserte un repositorio existente desde la línea de comando
+git remoto agregar origen https://github.com/felipesanches569/video53minutos.git
+ git rama -M principal 
+git push -u origen principal
+
+datos de texto informativos en diferentes lenguajes
+<!-- Aquí puedes escribir tu comentario en html --> 
+/* Aquí puedes escribir tu comentario css */
+// Aquí puedes escribir tu comentario JavaScript
+/* 
+Comentarios en JavaScript
+Autor: Caronte Web Studio
+*/
+# Aquí puedes escribir tu comentario en lenguaje python
+print "Texto que imprime la sentencia print" # Aquí escribimos el comentario
+
+metodo de trabajo de jsx el cual mescla html y js
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Curso de reate con hola mundo JUAN.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
+    </div>
+
+datos sobre el estrilo jsx 
+al utilizar la javes {} no se deben utilizar los ; no son necesarios

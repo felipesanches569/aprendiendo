@@ -1,0 +1,10 @@
+ingles
+
+css
+images
+assets
+components
+render
+export  enviar llevar
+import traer llamar
+default 
