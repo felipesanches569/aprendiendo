@@ -3,7 +3,7 @@ import logo from './assets/images/logo.svg';
 import './assets/css/App.css';
 
 // importar componentes
-import MiComponente from './components/MiCompornete'
+import MiComponente from './components/MiComponente.js';
 function holamundo(nombre, edad)
 { // inicio para usar el div
   var presentecion = 
@@ -42,7 +42,7 @@ function App() {
         </a>
         <div>
         <section className="componentes">
-          <MiComponente />
+ 
         </section>
         </div>
       </header>
