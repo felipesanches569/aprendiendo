@@ -24,7 +24,7 @@ function App() {
          HOLA MUNDO SOY JHRR...
         </p>
         {
-          holamundo(nombre)
+          holamundo(nombre, 25)
         }
         {       
         /*  alert("te estoy robando tus datos!! llamame 3125452344")*/
