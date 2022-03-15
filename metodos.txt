@@ -9,3 +9,5 @@ METODO DE HACER UN ENLASE LINK
         >
           Learn React
         </a>
+para devolver en return mas de una etiqueta se debe de usar
+react.fragmeent que es la fragmentacion en partes del return
