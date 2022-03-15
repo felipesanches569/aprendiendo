@@ -3,10 +3,10 @@ import React from 'react';
 class MiComponente extends React.Component{
     
     render (){
-        return 
+        return (
         
             <h1>hola, soy el componente llamado: MiComponente</h1>
-        
+        );
     } 
 }
 

@@ -42,7 +42,7 @@ function App() {
         </a>
         <div>
         <section className="componentes">
- 
+          <MiComponente />
         </section>
         </div>
       </header>
