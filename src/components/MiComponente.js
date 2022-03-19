@@ -4,6 +4,7 @@ class MiComponente extends Component{
     
     render (){
         return (
+<<<<<<< HEAD
             <React.Fragment>
                 <h1>hola, soy el componente llamado: MiComponente</h1>
                 <h2>estoy probando el componente</h2>
@@ -12,6 +13,11 @@ class MiComponente extends Component{
         
 
             );
+=======
+        
+            <h1>hola, soy el componente llamado: MiComponente</h1>
+        );
+>>>>>>> 1841c544d7d2c7ab9c71e76ffc9548ad39dd81e9
     } 
 }
 
